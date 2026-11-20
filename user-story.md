@@ -24,14 +24,14 @@ US2: As a customer, I want to filter the gallery by "All", "Charcoal", and "Grap
 
 US3: As a customer, I want to view the details of a drawing so that I can learn more about it.
 
-### Feature: 
+### Feature: Custom Portrait Commission Form
 US1: As a customer, I want to choose the drawing type (charcoal or graphite) and size so  that I can customize my portrait
 
 US2: As a customer, I want to upload a reference photo and add instructions so that the artist knows what to draw.
 
 US3: As a customer, I want to enter my name and email to submit my request so that the artist can contact me
 
-### Feature:
+### Feature: Artist Profile and Information Pages
 US1: As a customer, I want to use the navigation bar to switch between Home, Gallery, Commission, and About so that I can easily explore the site.
 
 US2: As a customer, I want to read the About section and see contact details so that I can learn about the artist's services.
