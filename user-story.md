@@ -17,24 +17,24 @@ US1: As a customer, I want to see today's menu with prices so that I can decide 
 US - User Story
 -->
 
-### Feature: 
-US1:
+### Feature: Filterable Artwork Gallery 
+US1: As a customer, I want to view the artist's drawings with their prices so that I can see what is available.
 
-US2:
+US2: As a customer, I want to filter the gallery by "All", "Charcoal", and "Graphite" so that I can easily find the art style I want
 
-US3:
+US3: As a customer, I want to view the details of a drawing so that I can learn more about it.
 
-### Feature: 
-US1:
+### Feature: Custom Portrait Commission Form
+US1: As a customer, I want to choose the drawing type (charcoal or graphite) and size so  that I can customize my portrait
 
-US2:
+US2: As a customer, I want to upload a reference photo and add instructions so that the artist knows what to draw.
 
-US3:
+US3: As a customer, I want to enter my name and email to submit my request so that the artist can contact me
 
-### Feature:
-US1:
+### Feature: Artist Profile and Information Pages
+US1: As a customer, I want to use the navigation bar to switch between Home, Gallery, Commission, and About so that I can easily explore the site.
 
-US2:
+US2: As a customer, I want to read the About section and see contact details so that I can learn about the artist's services.
 
-US3:
+US3:As a customer, I want to view the website on my phone or computer so that I can use it on any device without installing an app.
 
